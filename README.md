@@ -9,4 +9,4 @@ Está página nos mostrará un resumen de la biografía de Grace Hopper
 * html5
 * css
 
-![recursos](assets/images/page.PNG)
+![recursos](assets/images/pag.PNG)
